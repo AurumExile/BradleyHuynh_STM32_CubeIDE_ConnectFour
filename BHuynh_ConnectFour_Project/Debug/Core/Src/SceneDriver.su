@@ -1,0 +1,9 @@
+../Core/Src/SceneDriver.c:13:6:sceneInit	8	static
+../Core/Src/SceneDriver.c:20:6:drawScene	8	static
+../Core/Src/SceneDriver.c:28:6:drawStartMenu	40	static
+../Core/Src/SceneDriver.c:48:6:drawGame	32	static
+../Core/Src/SceneDriver.c:114:6:drawEnd	112	static
+../Core/Src/SceneDriver.c:154:6:changeScene	16	static
+../Core/Src/SceneDriver.c:160:6:touchHandler	24	static
+../Core/Src/SceneDriver.c:212:6:convertTimeToString	24	static
+../Core/Src/SceneDriver.c:220:6:convertScoreToString	24	static
